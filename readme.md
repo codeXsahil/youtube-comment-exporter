@@ -24,7 +24,7 @@ Since this extension is not on the Chrome Web Store, you can load it into your b
 
 Download the Repository:
 
-Clone this repository: git clone https://github.com/your-username/youtube-comment-exporter.git
+Clone this repository: git clone https://github.com/codeXsahil/youtube-comment-exporter.git
 
 Or, download the ZIP file and extract it to a folder on your computer.
 
